@@ -1,0 +1,18 @@
+---
+events:
+- id: 1
+  title: Concert in the Park
+  description: There will be music in the park!
+  host: City Park Jazz
+  location: Denver, CO
+- id: 2
+  title: Lollapalooza
+  description: So many bands.
+  host: Lollapalooza Organizers
+  location: Millineum Park, Chicago, IL
+- id: 3
+  title: Cookout
+  description: Food and friends.
+  host: Penelope
+  location: Home, Denver, CO
+total: 1
