@@ -1,0 +1,10 @@
+<div class="jumbotron">
+  <div container="container-fluid">
+    <h3>All Events</h3>
+    <% @events.each do |event| %>
+      <a href="#"><button type="button" class="btn btn-primary btn-lg">
+        <%= event.id %>: <%= event.title %>
+      </button></a><br>
+    <% end %>
+  </div>
+</div>
